@@ -1,0 +1,15 @@
+Package: com.tool.Integration
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: /Integrati.deb
+Size: 5223164
+MD5sum: bc0cb8045050e651a2ac389b276c5ca2
+SHA1: 081ca90ee6a5e27087ae7c1a9a0124f55e5bfe73
+SHA256: 7bc71d12f6f42d1e1060be454ef5f4e51304095d0dc3628c7c9b475b603e50d1
+Section: System
+Priority: optional
+Author: SuS
+Dev: SuS
+Name: Integration
+
